@@ -1,4 +1,4 @@
-package diskQueue
+package diskqueue
 
 import (
 	"bufio"
